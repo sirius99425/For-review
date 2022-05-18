@@ -19,7 +19,7 @@
      `[link]: http://www.example.com "title"`
 ------
 * 图片
-  * 效果 :  <br>![穹妹](../img/sora.jpg "sorachan ^_^")
+  * 效果 :  <br>![穹妹](../Img/sora.jpg "sorachan ^_^")
 
   * 格式: 
     1. 行内式 : `![alt text](/img-url "title")`
