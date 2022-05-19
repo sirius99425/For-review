@@ -1,5 +1,5 @@
 
-# markdown简洁人话版  
+# markdown语法简洁人话版  
 
 * ## 倾斜与粗体  
   * 效果 : *italic* __bold__  
